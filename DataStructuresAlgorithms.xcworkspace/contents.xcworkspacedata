@@ -2,9 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Trees.playground">
+      location = "group:Section II Elementary Data Structures.playground">
    </FileRef>
    <FileRef
-      location = "group:Sorting Algorithms.playground">
+      location = "group:/Users/hi/Documents/GitHub/DataStructuresAlgorithms/Section III Trees.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/hi/Documents/GitHub/DataStructuresAlgorithms/Section IV Sorting Algorithms.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Section V Graphs.playground">
    </FileRef>
 </Workspace>
