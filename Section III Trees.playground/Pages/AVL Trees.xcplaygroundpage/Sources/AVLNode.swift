@@ -22,6 +22,7 @@ public class AVLNode<Element> {
     }
 }
 
+
 extension AVLNode: CustomStringConvertible {
     public var description: String {
       diagram(for: self)
